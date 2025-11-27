@@ -1,2 +1,7 @@
-# EDA diamond data set
-EDA on Diamond Characteristics & Pricing
+# Data analytic
+
+'This is a mini project for practicing data analytic skill'
+
+## Diamonds characteristics and pricing
+
+## Customer sentiment dataset
